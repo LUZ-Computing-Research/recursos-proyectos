@@ -18,7 +18,9 @@ Esta carpeta reúne la normativa institucional que regula el desarrollo, present
 
 ---
 
-Coordinación de Trabajo de Investiación
+**Coordinación de Investigación**  
 Departamento de Computación  
 Facultad Experimental de Ciencias  
 Universidad del Zulia
+
+
