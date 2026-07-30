@@ -6,6 +6,8 @@ Esta carpeta reúne la normativa institucional que regula el desarrollo, present
 
 - **reglamento-pti.pdf**
   - Reglamento oficial para la elaboración y presentación del Proyecto de Investigación.
+    
+  📄 [Descargar reglamento-pti.pdf](reglamento-pti.pdf)
 
 - **normas-presentacion.pdf**
   - Normas de formato y presentación de los documentos académicos.
