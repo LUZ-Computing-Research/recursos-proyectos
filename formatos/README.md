@@ -7,8 +7,16 @@ Esta carpeta contiene los formatos administrativos requeridos durante las distin
 - **comprobante-inscripcion.pdf**
   - Comprobante de inscripción del Proyecto de Investigación.
 
+  Documento de referencia que certifica la inscripción del Proyecto de Investigación.
+
+  👁️ [Ver documento](comprobante-inscripcion.pdf)
+
 - **macur.pdf**
   - Formato institucional requerido por la Coordinación de Investigación.
+
+  Formato institucional (MACUR) utilizado durante el proceso administrativo del proyecto.
+
+  👁️ [Ver documento](macur.pdf)
 
 ## Recomendaciones
 
